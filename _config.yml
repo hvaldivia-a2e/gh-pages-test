@@ -1,0 +1,15 @@
+
+email: hvaldivia@a2etechnologies.com
+theme: minima
+
+header_pages:
+   - index.html
+   - regression.md
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
